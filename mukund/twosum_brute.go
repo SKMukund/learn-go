@@ -1,7 +1,6 @@
 package main
 
 //Brute Force
-
 func TwoSumBrute(nums []int, target int) [2]int {
 	var sum int = 0
 	returnVal := [2]int{0, 0}
